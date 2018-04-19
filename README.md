@@ -1,2 +1,4 @@
 # BlenderProject-Butterfly
-3-D model of Butterfly in Blender
+
+This is the 3-D model of "white tree nymph butterfly" in Blender.
+ 
